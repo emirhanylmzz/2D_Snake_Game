@@ -33,7 +33,7 @@ int main()
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
 	glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
 	*/
-	GLFWwindow* mainWindow = glfwCreateWindow(800, 600, "3D SNAKE", NULL, NULL);
+	GLFWwindow* mainWindow = glfwCreateWindow(800, 600, "2D SNAKE", NULL, NULL);
 	if (!mainWindow)
 	{
 		cerr << "GLFW window creatin failed!" << endl;
