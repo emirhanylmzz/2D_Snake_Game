@@ -1,5 +1,5 @@
 #version 330 core
-#emirhan
+#emirhan yılmaz
 layout(location = 0) in vec4 position;
 
 uniform mat4 u_MVP;
