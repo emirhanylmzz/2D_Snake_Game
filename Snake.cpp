@@ -1,3 +1,4 @@
+//Emirhan Yılmaz
 #include "Snake.h"
 #include <iostream>
 #ifdef _WIN32
