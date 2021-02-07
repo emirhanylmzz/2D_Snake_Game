@@ -3,7 +3,7 @@
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
 #include "Renderer.h"
-//emir
+//emirhan
 Shader::Shader(const string& v, const string& f)
 {
 	m_RendererID = CreateShader(v, f);
